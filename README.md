@@ -42,6 +42,8 @@ A personalized book recommender system built using collaborative filtering and S
 
 -generate.py which generates books.pkl and similarity.pkl
 
+RUN- python generate.py in terminal
+
 
 -requirements.txt
 
