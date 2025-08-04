@@ -9,6 +9,8 @@ A personalized book recommender system built using collaborative filtering and S
 - ✅ Real-time recommendations
 - ✅ Deployable on Streamlit Cloud or locally
 
+DATASET LINK(KAGGLE)- https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+
 🚀 Tech Stack
 
 - Python
