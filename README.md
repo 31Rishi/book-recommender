@@ -20,17 +20,40 @@ A personalized book recommender system built using collaborative filtering and S
 📁 Folder Structure
 
 - Data
+
+
   -Books.csv
+
+
   -Ratings.csv
+
+
   -Users.csv
+
+  
 -app.py
+
+
 -recommender.py
+
+
 -helper.py
+
+
 -generate.py which generates books.pkl and similarity.pkl
+
+
 -requirements.txt
 
+
+
  Install dependencies
+
+ 
 pip install -r requirements.txt
 
+
  Run the app
+
+ 
 streamlit run app.py
